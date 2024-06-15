@@ -1,0 +1,37 @@
+#navlist{
+    list-style-type: none;
+    display: flex;
+    gap: 70%;
+    margin-top: 40px;
+}
+#image{
+    width: 70px;
+    
+}
+#maincontainer{
+    display: flex;
+    gap: 37%;
+    height: 30px;
+}
+#landingdiv{
+background-image: url(https://www.shutterstock.com/image-illustration/close-creative-office-desk-top-260nw-2033741609.jpg);
+background-position: initial;
+background-repeat: no-repeat;
+background-size: cover;
+height: 882px;
+}
+h1{
+    padding-top: 20%;
+    padding-left: 13%;
+    font-size: 66px;
+    color: white;
+}
+button{
+    margin-left: 47%;
+    height: 45px;
+    width: 120px;
+    border-radius: 30px;
+    border: 0cap;
+    font-size: 17px;
+    margin-top: 6%;
+}
