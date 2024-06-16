@@ -10,8 +10,10 @@ import { Md360 } from "react-icons/md";
 const Feature =()=>{
     return(
         <>
-        <h1 class="feature">Why Choose Us</h1>
-      
+        <div>
+            <h2 class="feature">Why Choose Us</h2>
+        </div>
+        
         <div class="firstpart">     
             <div class="icon1">
             <div class="analytic">
