@@ -1,13 +1,18 @@
-import Navbar from "./Navbar";
+import Nav from "./Navbar"
+import Feature from "./Feature";
 
 const App = () =>{
   return(
    
       <div>
-         <Navbar/>
-        
+       
+         <Nav/>
+         <Feature/>
+         
 
       </div>  
   )
 }
+
+
 export default App;

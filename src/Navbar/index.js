@@ -4,7 +4,7 @@ import inota from './inota.png'
 const Nav= ()=>{
     return(
         <>
-        <div id='maincontainer'>
+       <div id='maincontainer'>
        <div>
        <img id='image' src={inota}/>
        </div>
@@ -19,7 +19,7 @@ const Nav= ()=>{
         <img src='' alt=''/>
         <div id='landingdiv'>
         <h1>Here to offer the best loan management and <br/> credit scoring system for Saccos</h1>
-<button>Register</button>
+ <button>Register</button>
         </div> 
         </>
     )

@@ -1,0 +1,120 @@
+.feature{
+   margin-left: 41%;
+ }
+ .firstpart{
+     display: flex;
+     gap: 21%;
+     margin-left: 23%;
+ }
+ .secondpart{
+     display: flex;
+     gap: 21%;
+     margin-left: 23%;
+ }
+ .icon1{
+    display: flex;
+    gap: 10px;
+
+
+ }
+ .analytics{
+    margin-top: -2%;
+ }
+ .analytic{
+    margin-top: 4%;
+ }
+ .tracker{
+    display: flex;
+    gap: 10px;
+ }
+ .icon2{
+    margin-top: 6%;
+ }
+ .alt{
+    display: flex;
+    gap: 10px;
+ }
+ .icon3{
+    margin-top: 6%;
+ }
+ .credit{
+    display: flex;
+    gap: 10px;
+ }
+ .icon4{
+    margin-top: 7%;
+ }
+@media  screen and (min-width:300px) and (max-width:550px) {
+    .firstpart{
+        display: block;
+        margin-left: 9%;
+    }
+    .secondpart{
+        display: block;
+        margin-left: 9%;
+    }
+    .feature{
+        margin-left: 15%;
+      }
+}
+
+@media  screen and (min-width:600px) and (max-width:800px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 4%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 3%;
+    }
+    .feature{
+        margin-left: 33%;
+      }
+}
+@media  screen and (min-width:801px) and (max-width:1000px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 4%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 3%;
+    }
+    .feature{
+        margin-left: 33%;
+      }
+}
+@media  screen and (min-width:1001px) and (max-width:1200px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 9%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 9%;
+    }
+    .feature{
+        margin-left: 33%;
+      }
+}
+@media  screen and (min-width:1201px) and (max-width:1300px) {
+    .firstpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 19%;
+    }
+    .secondpart{
+        display: flex;
+        gap: 15%;
+        margin-left: 19%;
+    }
+    .feature{
+        margin-left: 33%;
+      }
+}
