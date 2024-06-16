@@ -9,7 +9,7 @@ function Contact(){
     <div>
 
 
-    <div class="logo-container">
+    <div class= "logo-container">
         <img src={emata} alt="Emata" class="logo"/>
         <img src={upstart} alt="Upstart" class="logo"/>
         <img src={wsa} alt="WSA" class="logo"/>
