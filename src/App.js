@@ -1,13 +1,11 @@
-import Navbar from "./Navbar";
-
-const App = () =>{
-  return(
-   
-      <div>
-         <Navbar/>
-        
-
-      </div>  
-  )
-}
+import React from 'react';
+import FaqList from './Faqs';
+import './App.css';
+const App = () => {
+    return (
+        <div className="App">
+            <FaqList />
+        </div>
+    );
+};
 export default App;
